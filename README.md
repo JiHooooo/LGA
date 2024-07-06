@@ -1,4 +1,4 @@
-# ![Project Image](logo/LGA_logo.png)
+
 
 # LGA: A Language Guide Adapter for Advancing the SAM Model's Capabilities in Medical Image Segmentation
 
